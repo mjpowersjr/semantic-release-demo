@@ -1,0 +1,14 @@
+{
+  "name": "semantic-release-demo",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "https://github.com/mjpowersjr/semantic-release-demo.git",
+  "author": "Mike Powers <mjpowersjr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
